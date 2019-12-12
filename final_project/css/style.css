@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css?family=Baskervville|Dosis:300,400,700|Roboto:400,700,700i,900&display=swap');
+
+body {
+  background-color: pink;
+  color: black;
+  font-family: "Dosis", sans-serif;
+}
+
+h1 {
+  text-align: center;
+  color: purple;
+  border: 5px dotted purple;
+  background-color: white;
+  padding: 10px 0;
+  margin-bottom: 10px;
+  width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+h3 {
+  text-align: center;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+  width: 500px;
+}
+
+h4 {
+  text-align: center;
+}
+
+h5 {
+  text-align: center;
+}
+
+ul {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  margin: 0 auto;
+  width: 500px;
+  color: white;
+  padding: 10px 0;
+  margin-bottom: 10px;
+  width: 200px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.text {
+  background-color: purple;
+}
